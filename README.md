@@ -11,6 +11,8 @@
 - Evaluate all code blocks
 
 # Usage
+- Click on a feature/point to print coordinate
+
 **Basic Example** </br>
 ``` Mathematica
 Betterplot[{y == Sin[x]}]
