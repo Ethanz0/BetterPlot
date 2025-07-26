@@ -20,7 +20,7 @@ Betterplot[{y == Sin[x]}]
 
 **Example with all options:** </br>
 ``` Mathematica
-Betterplot[{y + x == x^2 + Tan[x], 5 - x/2 == y},
+Betterplot[{y + x == x^2 + Tan[x], 5 - x/2 == y}, {x, -10, 10}, {y, -10, 10},
 "Asymptote" -> True, "N" -> False, "TP" -> True, "Time" -> 7, "IP" -> True, "Endpoints" -> True, PlotPoints -> 50]
 ```
 
