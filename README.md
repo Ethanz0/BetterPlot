@@ -1,11 +1,14 @@
+# Bound reference.nb
+150+ custom functions I made to solve VCE Methods, Specialist and University Extension math exams.
+
 # Better plot
-Plot any number of equations with labelled axis, border and graph intercepts, stationary points, inflection points, asymptotes, discontinuity points, endpoints and midpoints.</br>
-Complex equations are also supported</br>
-<img width="600" alt="image" src="image6.png">
+- Plot any number of equations with labelled axis, border and graph intercepts, stationary points, inflection points, asymptotes, discontinuity points, endpoints and midpoints.</br>
+- Complex equations are also supported</br></br>
+<img width="600" alt="image" src="image6.png"></br>
 
 # Download
-Download latest Release zip file or download BetterPlot.nb file </br>
-Evaluate all code blocks within BetterPlot
+- Download latest Release zip file or download BetterPlot.nb/Bound reference.nb file </br>
+- Evaluate all code blocks
 
 # Usage
 **Basic Example** </br>
@@ -43,5 +46,4 @@ PlotPoints -> 50  (*More PlotPoints makes graph less fuzzy at the cost of speed*
 ```
 
 
-# Purpose
-Custom functions I made to solve VCE Methods, Specialist and University Extension math exams.
+
